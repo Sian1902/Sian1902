@@ -1,6 +1,7 @@
 # Hi there! 👋 I'm Ahmed Haitham
 
-![bingo-ezgif com-optimize](https://github.com/Sian1902/Sian1902/assets/96428026/2e0e94f1-cfdd-4512-b971-d98bdd18fe13))
+![bingo (1)](https://github.com/Sian1902/Sian1902/assets/96428026/52bddaae-b02d-46d4-b3f1-1103db1eb60f)
+
 
 ## About Me
 I'm a junior student at FCIS Ain Shams University (2021-2025), passionate about game development and currently learning .NET. I love turning ideas into interactive experiences.
