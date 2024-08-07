@@ -4,7 +4,7 @@
 
 
 ## About Me
-I'm a junior student at FCIS Ain Shams University (2021-2025), passionate about game development and currently learning .NET. I love turning ideas into interactive experiences.
+I'm a senior student at FCIS Ain Shams University (2021-2025), passionate about game development, and I am currently learning .  .NET. I love turning ideas into interactive experiences.
 
 ## Skills & Tools
 - ![Unity](https://img.shields.io/badge/Unity-Game%20Development-blue?logo=unity)  ![Blender](https://img.shields.io/badge/Blender-3D%20Modeling-orange?logo=blender) ![C++](https://img.shields.io/badge/C++-Programming-blue?logo=c%2B%2B) ![C](https://img.shields.io/badge/C-Programming-lightgrey?logo=c) 
