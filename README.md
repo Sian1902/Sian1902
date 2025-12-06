@@ -2,24 +2,44 @@
 
 ![bingo (1)](https://github.com/Sian1902/Sian1902/assets/96428026/52bddaae-b02d-46d4-b3f1-1103db1eb60f)
 
-
 ## About Me
-I'm a senior student at FCIS Ain Shams University (2021-2025), passionate about game development, and I am currently learning Mobile Development. I love turning ideas into interactive experiences.
+Software Developer with hands-on experience across **backend, mobile, and game development**. I’ve built real-world applications using **Java/Spring Boot**, **Kotlin/Android**, and **Unity/C#**, and I’m passionate about creating scalable systems and polished interactive experiences.  
+Currently part of **Mega Cat Studios** as a Game Developer and pursuing the **Mobile Development (Native) track at ITI**.
 
 ## Skills & Tools
-- ![Unity](https://img.shields.io/badge/Unity-Game%20Development-blue?logo=unity)  ![Blender](https://img.shields.io/badge/Blender-3D%20Modeling-orange?logo=blender) ![C++](https://img.shields.io/badge/C++-Programming-blue?logo=c%2B%2B) ![C](https://img.shields.io/badge/C-Programming-lightgrey?logo=c) 
-- ![C#](https://img.shields.io/badge/C%23-Programming-green?logo=c-sharp) ![Java](https://img.shields.io/badge/Java-Programming-red?logo=java) ![Git](https://img.shields.io/badge/Git-Version%20Control-lightgrey?logo=git) ![SQL](https://img.shields.io/badge/SQL-Database-blue?logo=sql) ![Jira](https://img.shields.io/badge/Jira-Software-blue?logo=jira)
-- ![Kotlin](https://img.shields.io/badge/Kotlin-Programming-blue?logo=kotlin) ![Python](https://img.shields.io/badge/Python-Programming-blue?logo=python)
-![Android](https://img.shields.io/badge/Android-Development-green?logo=android)
+
+### Languages & Frameworks
+![Java](https://img.shields.io/badge/Java-red?logo=java)
+![Spring](https://img.shields.io/badge/Spring%20Boot-green?logo=springboot)
+![Kotlin](https://img.shields.io/badge/Kotlin-blue?logo=kotlin)
+![Android](https://img.shields.io/badge/Android-green?logo=android)
+![C#](https://img.shields.io/badge/C%23-purple?logo=csharp)
+![Unity](https://img.shields.io/badge/Unity-black?logo=unity)
+![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus)
+![C](https://img.shields.io/badge/C-lightgrey?logo=c)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![Angular](https://img.shields.io/badge/Angular-red?logo=angular)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-black?logo=git)
+![Postman](https://img.shields.io/badge/Postman-orange?logo=postman)
+![Firebase](https://img.shields.io/badge/Firebase-yellow?logo=firebase)
+![SQL](https://img.shields.io/badge/SQL-blue?logo=sqlite)
+
+## Experience
+- **Game Developer @ Mega Cat Studios** – Implementing gameplay features, tools, and optimizations using Unity and C#.
+- **Backend Engineer @ Tactful** – Developed automation workflows, REST integrations, and social media channel connections.
+- **Java Intern @ Fawry** – Spring Boot development, API design, relational DBs, Angular front-end exposure.
+- **Mobile Developer Intern @ DEPI** – Built Android apps using Kotlin, focusing on UI, performance, and APIs.
 
 ## Current Focus
-🌱 I'm currently learning Mobile Development
-and exploring new ways to enhance my development skills.
+- Advancing in **Android native development** through ITI’s Mobile Development (Native) track.  
+- Building gameplay systems and tools at Mega Cat Studios.  
+- Continuously improving my skills in backend, mobile, and game development.
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/ahmed--haitham/)
-- [Mail](ahmedhaitham042@gmail.com)
-
+- **Email:** ahmedhaitham042@gmail.com
 
 ## Let's Connect!
-Feel free to let me know if you share similar interests or if you have any exciting project ideas. Let's create something amazing together!
+If you share interests in backend engineering, mobile apps, or game dev — or want to collaborate on a project — feel free to reach out!
